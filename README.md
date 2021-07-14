@@ -1,3 +1,2 @@
 # KiC Robotics Task
-Scripts that are written during the course is present in
-linux_course_files.tssim/move_bb8_pkg/my_scripts/*
+Scripts that are made during the course are present in my_scripts folder
